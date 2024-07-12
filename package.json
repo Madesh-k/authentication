@@ -8,17 +8,26 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "bootstrap": "^5.3.3",
     "core-js": "^3.8.3",
-    "vue": "^3.2.13"
+    "mongosh": "^2.2.11",
+    "mongoshell": "^1.0.0",
+    "vue": "^3.2.13",
+    "vue-router": "^4.4.0",
+    "vuex": "^4.0.2"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
     "@babel/eslint-parser": "^7.12.16",
+    "@fortawesome/fontawesome-free": "^6.5.2",
     "@vue/cli-plugin-babel": "~5.0.0",
     "@vue/cli-plugin-eslint": "~5.0.0",
-    "@vue/cli-service": "~5.0.0",
+    "@vue/cli-service": "^3.3.1",
     "eslint": "^7.32.0",
-    "eslint-plugin-vue": "^8.0.3"
+    "eslint-plugin-vue": "^8.0.3",
+    "node-sass": "^9.0.0",
+    "sass": "^1.77.6",
+    "sass-loader": "^10.5.2"
   },
   "eslintConfig": {
     "root": true,
